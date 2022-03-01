@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 👋 Hi there my name is astroruxx, (not really, but thats what you can call me).
 
 👨‍🎓 I am a student, yes.
