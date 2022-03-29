@@ -7,4 +7,4 @@
 📩usually try to respond to my emails.(find my email on my website)
 
 
-![](https://dcbadge.vercel.app/api/shield/930619661626802247)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=930619661626802247)
